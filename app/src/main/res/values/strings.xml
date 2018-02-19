@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RPE Chart Calculator</string>
+    <string name="weight_lifted">Weight lifted</string>
+    <string name="number_of_reps">Number of reps</string>
+    <string name="rate_of_perceived_exertion">Rate of Perceived Exertion</string>
+
+    <string-array name="rpe_values">
+        <item>10</item>
+        <item>9.5</item>
+        <item>9</item>
+        <item>8.5</item>
+        <item>8</item>
+        <item>7.5</item>
+        <item>7</item>
+    </string-array>
+
+    <string-array name="rep_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+</resources>
