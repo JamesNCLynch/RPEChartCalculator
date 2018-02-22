@@ -3,6 +3,10 @@
     <string name="weight_lifted">Weight lifted</string>
     <string name="number_of_reps">Number of reps</string>
     <string name="rate_of_perceived_exertion">Rate of Perceived Exertion</string>
+    <string name="percentage_drop">Percentage drop</string>
+    <string name="next_working_set_weight">Next working set weight:</string>
+    <string name="next_backoff_set_weight">Next backoff set weight:</string>
+    <string name="estimated_1rm">Estimated 1RM:</string>
 
     <string-array name="rpe_values">
         <item>10</item>
@@ -23,5 +27,17 @@
         <item>6</item>
         <item>7</item>
         <item>8</item>
+    </string-array>
+
+    <string-array name="percentage_values">
+        <item>None</item>
+        <item>2.5%</item>
+        <item>5%</item>
+        <item>7.5%</item>
+        <item>10%</item>
+        <item>12.5%</item>
+        <item>15%</item>
+        <item>17.5%</item>
+        <item>20%</item>
     </string-array>
 </resources>
